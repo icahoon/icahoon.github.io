@@ -1,11 +1,10 @@
-
 ==================================================================
 https://keybase.io/icahoon
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://blog.icahoon.im
+  * I am an admin of http://icahoon.im
   * I am icahoon (https://keybase.io/icahoon) on keybase.
   * I have a public key with fingerprint D5F8 895F BE5D E9CC 6C35  E8B8 C813 B050 DFDC DBE3
 
@@ -22,27 +21,17 @@ To do so, I am signing this object:
       "uid": "fa7811694127137f9adb8233bb767500",
       "username": "icahoon"
     },
-    "merkle_root": {
-      "ctime": 1520983274,
-      "hash_meta": "673380e10b9468bb8a0e381481555325b2df5d667458558d1fdd3900cfdb9ef2",
-      "seqno": 2232590
-    },
-    "revoke": {
-      "sig_ids": [
-        "cc388af4ede777f807c92aff23b1ae5004758f2121db46d3a937efbbc07cf6440f"
-      ]
-    },
     "service": {
-      "hostname": "blog.icahoon.im",
+      "hostname": "icahoon.im",
       "protocol": "http:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1520983296,
+  "ctime": 1520985163,
   "expire_in": 157680000,
-  "prev": "c7e8c13b6dd73feed48d04c410d76941630933f3a3d892e48ed5d4030dd15310",
-  "seqno": 16,
+  "prev": "fb6d35272e0dbca989166c07e0f7783d48991334482ac0dec9fc639e427603ab",
+  "seqno": 17,
   "tag": "signature"
 }
 
@@ -52,26 +41,23 @@ which yields the signature:
 Version: Keybase OpenPGP v2.0.76
 Comment: https://keybase.io/crypto
 
-yMK5AnicrZNdaB1FFMfvTWraRpSWWm1BH9w+pcQws7OzM3uhtgUhVEghaovWxNv5
-OJNs7sded/emifEqEkTtkwoi9kGNYshDpQ+WGEPQcklB0dQUWkSlUkREMBSDtFFr
-U2dDRBAf3ZdlZ//nnP/5nTPzt7Xm2vN7ev3qQzf+aMt/3jxWzx2Z6s+NOTLSo05h
-zCnB2gvKGpK0WAq1U3AQRtglkijMfO2D0STgwuiABMJIRrjLlHYVE1QizbTi4Clq
-iOAAvkKekb7QDAmn0zFhdQDiWhxWU5tWU8N5QI0EqiFQyleEApdccUwkokgbrbQE
-YgMHoySLsOakSKArjOyZ/Siu2fsP/f/su76WzgjGMfYDD7sME2YCoSV3CZGS+Ywi
-lAkTiKuiAlYdKjEYRVWn0elUIC6VoRhHUZqxVWmYKTB1UcCJyzzbn0gGixVIhQ30
-GSEcAUYy8HwuJRcICMcex5RS4lLpakO17zOPckq5xkbbxhBSRssAjGttJPBkNXIK
-rmvlAbIOYhiOSpAVT8IBSy1xCo87ShFueXiggTFmOGIqcIUxFhkWYBvyGOXGxS7W
-0vM1EQFhYKRUVmh8z0PG6W9kxeLhUK0lz8a03r4sRwNd6wy6woo1VYujNFJR2f4c
-TNNaISOTjtYy8TGQxfU0RRlWtV0TGzAMcRJaggVslf+CFvidDozUwhiKYaagzOfI
-PlkZGM6WggFXdi98rRkxANrjGnnKw3bU2Qh9ggJC7LSJ5oELHgdNtYcI0hpTgtE/
-FLEtlYoBm9Oyq4q0HoPTaJ7p25DLt+fabmnJ7k+uffOWv2/VxcWNN4e2PvFN6z07
-9eylnrln335+4niL93q+d/MY79k3+d35891brz1WH7p84uyu/O0b9q7EJ3cvzPYe
-nt5y7q7aDDq145nxlaHu6fyj068sNb+F/fULu6sbL12fPTBys/BAVb7bMztyff7G
-x8EdR374vrJzYbljx9TxWHVPXP3kq+0dU+9cuXBxbib64syJNxaWr/Vtuu/r1V/2
-/D5+6suSufunT8WhfYfDTf0v3tq/feL+0/TDvWeXHw7m5seH4BHXfWri3sk/Ly/+
-OLP/6Ad9le5DjV/7Gqu5l196dXTySu3g1TvfN2+t/vxa69LRXQO4fPCzluLicyvn
-3jzZ+tu2B5sfdYw9vbSt2fZe8oI5feAv1nmGuA==
-=GviC
+yMIhAnicrVJbbAxRGN5etLUqKQ8i7YMYDxKqOTNnZ86ZbQmpexOUREPEOrdpx7Y7
+293ZqjSliNuTEJcKIiIRtEhEECSqWiJuCVa0damIBzSKhLSq5UzDg8Sj83Jyvnzf
+d77vz982Os3nT5leakSWDn7PSLl7Y2/Ct/IkL6lTqMPXK8E6JSyGL1HJRdwNhW2u
+BBWgAlWDFDIVGdwQFocmJhY3oUksiiDWEOMaQ0SngCPOsAgw3YIEC2EwELCoQTgC
+RMlXLDtSLmLRmB1xpS3XLYxN3aJC58JkzGBQF5hihlVIgQ64xRmnAkphhRP3FDIc
+JXFRYDsSk4/QcLx/8P9z7sSwnUUQVlXDDKgaUiGyTMIp1iCkFBlIB8AjxkUsQqqE
+ZNuMVDhORKnPVyRYYzPhzdUr8jehwK6SwmjMcR3mVEq8wnWjQU/mro96vHWChn47
+hKgd4XKGUlAjYnFb2gdVyWSu7VmqugZMrKsGzFdEbdSOiZDtMXRkYCCP942o8ZpQ
+g0NdQ5oAnDJiYlM1ZGUkgIUQhjyATVOFMBDAGmGAC2ZazICmCGjIAJBQxetUHXGk
+N5I5Sbn0jNvlEeImYkKpb21Zle5L8fsyRqR6y+Xzj8z5s3Jnjmb5jrU3pmZ2DE4a
+1zZ/Y17iQtP+hnsVn9Vkf0PhtPrz3xZl/BzfPONYQWFh98wgb/XlnshJ6frR9Hzl
+k8tb7q/ZlDPQPmJo/9EP5dsalyQWVHZcnTintH+g51zvrblvD89+1K58LVgWjTUB
+631y9Uh/cvSEFemgpaz4xdrNZWP8Rc3byWB/b1/j9OstU44X5RbTzd3XHnRk52Vf
+fHnozeFZr6+0ZW11h8aNWvYsbR+cPLYrswVewsVbP55Itj4MX81Mfj99ZGNiIHdh
+dfap2/TAbndfeOqMc0e+7Lxee2PPjqefOpd3hh/cTlXfXrw5BB6Xztvg23XQeXf2
+7J2+HlRSpL8qGXN+cUbdL7RtRrw=
+=lU4h
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -80,3 +66,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/icahoon
 
 ==================================================================
+
