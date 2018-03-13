@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on icahoon.im</title>
-    <link>https://blog.icahoon.im/post/</link>
+    <link>http://icahoon.im/post/</link>
     <description>Recent content in Posts on icahoon.im</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018, Ian Cahoon</copyright>
     <lastBuildDate>Fri, 02 Mar 2018 14:52:49 +0000</lastBuildDate>
     
-	<atom:link href="https://blog.icahoon.im/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://icahoon.im/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Automation</title>
-      <link>https://blog.icahoon.im/post/automation/</link>
+      <link>http://icahoon.im/post/automation/</link>
       <pubDate>Fri, 02 Mar 2018 14:52:49 +0000</pubDate>
       
-      <guid>https://blog.icahoon.im/post/automation/</guid>
+      <guid>http://icahoon.im/post/automation/</guid>
       <description> Hire the people who will automate themselves out of a job, then just keep giving them jobs.
 &amp;ndash; Jessie Frazelle
  </description>

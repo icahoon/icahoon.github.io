@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.icahoon.im/post/automation/</loc>
+    <loc>http://icahoon.im/post/automation/</loc>
     <lastmod>2018-03-02T14:52:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.icahoon.im/categories/</loc>
+    <loc>http://icahoon.im/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.icahoon.im/post/</loc>
+    <loc>http://icahoon.im/post/</loc>
     <lastmod>2018-03-02T14:52:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.icahoon.im/tags/</loc>
+    <loc>http://icahoon.im/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://blog.icahoon.im/</loc>
+    <loc>http://icahoon.im/</loc>
     <lastmod>2018-03-02T14:52:49+00:00</lastmod>
     <priority>0</priority>
   </url>
