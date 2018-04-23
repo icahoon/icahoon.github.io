@@ -7,27 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018, Ian Cahoon</copyright>
-    <lastBuildDate>Wed, 14 Mar 2018 00:25:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Apr 2018 01:57:08 +0000</lastBuildDate>
     
 	<atom:link href="http://icahoon.im/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning SAML</title>
-      <link>http://icahoon.im/post/saml/</link>
+      <title>SCIM RFCs</title>
+      <link>http://icahoon.im/posts/scim/</link>
+      <pubDate>Mon, 23 Apr 2018 01:57:08 +0000</pubDate>
+      
+      <guid>http://icahoon.im/posts/scim/</guid>
+      <description>To read:
+ RFC 7642, System for Cross-domain Identity Management: Definitions, Overview, Concepts, and Requirements RFC 7643, System for Cross-domain Identity Management: Core Schema RFC 7644, System for Cross-domain Identity Management: Protocol  </description>
+    </item>
+    
+    <item>
+      <title>SAML RFCs</title>
+      <link>http://icahoon.im/posts/saml/</link>
       <pubDate>Wed, 14 Mar 2018 00:25:49 +0000</pubDate>
       
-      <guid>http://icahoon.im/post/saml/</guid>
+      <guid>http://icahoon.im/posts/saml/</guid>
       <description>To read in no particlar order:
  RFC 7521, Assertion Framework for OAuth 2.0 Client Authentication and Authorization Grants RFC 7522, Security Assertion Markup Language (SAML) 2.0 Profile for OAuth 2.0 Client Authentication and Authorization Grants RFC 6749, The OAuth 2.0 Authorization Framework RFC 6750, The OAuth 2.0 Authorization Framework: Bearer Token Usage  RFC 2616, Hypertext Transfer Protocol &amp;ndash; HTTP/1.1 RFC 2246, The TLS Protocol Version 1.0 RFC 5246, The Transport Layer Security (TLS) Protocol Version 1.</description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>http://icahoon.im/post/automation/</link>
+      <link>http://icahoon.im/posts/automation/</link>
       <pubDate>Fri, 02 Mar 2018 14:52:49 +0000</pubDate>
       
-      <guid>http://icahoon.im/post/automation/</guid>
+      <guid>http://icahoon.im/posts/automation/</guid>
       <description> Hire the people who will automate themselves out of a job, then just keep giving them jobs.
 &amp;ndash; Jessie Frazelle
  </description>

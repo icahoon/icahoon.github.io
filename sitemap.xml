@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://icahoon.im/post/saml/</loc>
+    <loc>http://icahoon.im/posts/scim/</loc>
+    <lastmod>2018-04-23T01:57:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://icahoon.im/posts/saml/</loc>
     <lastmod>2018-03-14T00:25:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://icahoon.im/post/automation/</loc>
+    <loc>http://icahoon.im/posts/automation/</loc>
     <lastmod>2018-03-02T14:52:49+00:00</lastmod>
   </url>
   
@@ -18,14 +23,14 @@
   </url>
   
   <url>
-    <loc>http://icahoon.im/post/</loc>
-    <lastmod>2018-03-14T00:25:49+00:00</lastmod>
+    <loc>http://icahoon.im/posts/</loc>
+    <lastmod>2018-04-23T01:57:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://icahoon.im/tags/rfc/</loc>
-    <lastmod>2018-03-14T00:25:49+00:00</lastmod>
+    <lastmod>2018-04-23T01:57:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,14 +41,20 @@
   </url>
   
   <url>
+    <loc>http://icahoon.im/tags/scim/</loc>
+    <lastmod>2018-04-23T01:57:08+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://icahoon.im/tags/</loc>
-    <lastmod>2018-03-14T00:25:49+00:00</lastmod>
+    <lastmod>2018-04-23T01:57:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://icahoon.im/</loc>
-    <lastmod>2018-03-14T00:25:49+00:00</lastmod>
+    <lastmod>2018-04-23T01:57:08+00:00</lastmod>
     <priority>0</priority>
   </url>
   
