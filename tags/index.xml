@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on icahoon.im</title>
-    <link>http://icahoon.im/tags/</link>
+    <link>https://icahoon.im/tags/</link>
     <description>Recent content in Tags on icahoon.im</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018, Ian Cahoon</copyright>
     <lastBuildDate>Mon, 23 Apr 2018 01:57:08 +0000</lastBuildDate>
     
-	<atom:link href="http://icahoon.im/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://icahoon.im/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rfc</title>
-      <link>http://icahoon.im/tags/rfc/</link>
+      <link>https://icahoon.im/tags/rfc/</link>
       <pubDate>Mon, 23 Apr 2018 01:57:08 +0000</pubDate>
       
-      <guid>http://icahoon.im/tags/rfc/</guid>
+      <guid>https://icahoon.im/tags/rfc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Saml</title>
-      <link>http://icahoon.im/tags/saml/</link>
+      <link>https://icahoon.im/tags/saml/</link>
       <pubDate>Wed, 14 Mar 2018 00:25:49 +0000</pubDate>
       
-      <guid>http://icahoon.im/tags/saml/</guid>
+      <guid>https://icahoon.im/tags/saml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scim</title>
-      <link>http://icahoon.im/tags/scim/</link>
+      <link>https://icahoon.im/tags/scim/</link>
       <pubDate>Mon, 23 Apr 2018 01:57:08 +0000</pubDate>
       
-      <guid>http://icahoon.im/tags/scim/</guid>
+      <guid>https://icahoon.im/tags/scim/</guid>
       <description></description>
     </item>
     

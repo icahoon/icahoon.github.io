@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scim on icahoon.im</title>
-    <link>http://icahoon.im/tags/scim/</link>
+    <link>https://icahoon.im/tags/scim/</link>
     <description>Recent content in Scim on icahoon.im</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018, Ian Cahoon</copyright>
     <lastBuildDate>Mon, 23 Apr 2018 01:57:08 +0000</lastBuildDate>
     
-	<atom:link href="http://icahoon.im/tags/scim/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://icahoon.im/tags/scim/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SCIM RFCs</title>
-      <link>http://icahoon.im/posts/scim/</link>
+      <link>https://icahoon.im/posts/scim/</link>
       <pubDate>Mon, 23 Apr 2018 01:57:08 +0000</pubDate>
       
-      <guid>http://icahoon.im/posts/scim/</guid>
+      <guid>https://icahoon.im/posts/scim/</guid>
       <description>To read:
  RFC 7642, System for Cross-domain Identity Management: Definitions, Overview, Concepts, and Requirements RFC 7643, System for Cross-domain Identity Management: Core Schema RFC 7644, System for Cross-domain Identity Management: Protocol  </description>
     </item>
