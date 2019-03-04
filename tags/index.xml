@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on icahoon.im</title>
-    <link>https://icahoon.im/tags/</link>
-    <description>Recent content in Tags on icahoon.im</description>
+    <title>Tags on icahoon.dev</title>
+    <link>https://icahoon.dev/tags/</link>
+    <description>Recent content in Tags on icahoon.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018, Ian Cahoon</copyright>
     
-	<atom:link href="https://icahoon.im/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://icahoon.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
