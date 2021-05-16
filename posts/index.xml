@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on icahoon.dev</title>
@@ -6,11 +6,31 @@
     <description>Recent content in Posts on icahoon.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018-20, Ian Cahoon</copyright>
-    <lastBuildDate>Sun, 09 Feb 2020 12:22:29 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2018-21, Ian Cahoon</copyright>
+    <lastBuildDate>Sun, 16 May 2021 00:58:09 +0000</lastBuildDate>
     
 	<atom:link href="https://icahoon.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hiring</title>
+      <link>https://icahoon.dev/posts/hiring/</link>
+      <pubDate>Sun, 16 May 2021 00:58:09 +0000</pubDate>
+      
+      <guid>https://icahoon.dev/posts/hiring/</guid>
+      <description>Hiring people can/will hugely impact their life and it’s not something that should be taken lightly.
+via Jill Wohlner</description>
+    </item>
+    
+    <item>
+      <title>Interface Idiom</title>
+      <link>https://icahoon.dev/posts/accept-interface-return-local-types/</link>
+      <pubDate>Sun, 16 May 2021 00:53:26 +0000</pubDate>
+      
+      <guid>https://icahoon.dev/posts/accept-interface-return-local-types/</guid>
+      <description>Accept interfaces and return local types.
+via Chris Hines</description>
+    </item>
     
     <item>
       <title>Channel Axioms</title>
@@ -27,7 +47,7 @@
       <pubDate>Fri, 02 Mar 2018 14:52:49 +0000</pubDate>
       
       <guid>https://icahoon.dev/posts/automation/</guid>
-      <description>Hire the people who will automate themselves out of a job, then just keep giving them jobs.  &amp;ndash; Jessie Frazelle</description>
+      <description>Hire the people who will automate themselves out of a job, then just keep giving them jobs.</description>
     </item>
     
   </channel>
