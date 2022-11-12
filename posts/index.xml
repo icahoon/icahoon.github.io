@@ -6,12 +6,8 @@
     <description>Recent content in Posts on icahoon.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018-21, Ian Cahoon</copyright>
-    <lastBuildDate>Sun, 16 May 2021 00:58:09 +0000</lastBuildDate>
-    
-	<atom:link href="https://icahoon.dev/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2018-22, Ian Cahoon</copyright>
+    <lastBuildDate>Sun, 16 May 2021 00:58:09 +0000</lastBuildDate><atom:link href="https://icahoon.dev/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hiring</title>
       <link>https://icahoon.dev/posts/hiring/</link>

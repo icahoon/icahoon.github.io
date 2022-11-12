@@ -6,10 +6,6 @@
     <description>Recent content in Tags on icahoon.dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018-21, Ian Cahoon</copyright>
-    
-	<atom:link href="https://icahoon.dev/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>&amp;copy; 2018-22, Ian Cahoon</copyright><atom:link href="https://icahoon.dev/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
